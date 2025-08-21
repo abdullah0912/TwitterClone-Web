@@ -1,4 +1,4 @@
-<h1>Twitter Web</h1>
+<h1>TwitterClone-Web</h1>
 
 ***- Hello Guys! This project is a simple Twitter Web App coded with HTML & Styled with CSS on Visual Studio Code IDE***
 
